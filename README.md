@@ -60,6 +60,7 @@ This app is perfect for anyone who:
 ---
 
 🎮 **Live Demo:** 
-[https://ripalpatel18.github.io/JavaScript_Project/](https://fashion-folio-rust.vercel.app/)
+
+- [https://ripalpatel18.github.io/JavaScript_Project/](https://fashion-folio-rust.vercel.app/)
 
 
