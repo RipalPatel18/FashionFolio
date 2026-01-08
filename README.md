@@ -57,6 +57,7 @@ This app is perfect for anyone who:
 ## ScreenShot
 <img width="1896" height="940" alt="fashionfolio" src="https://github.com/user-attachments/assets/eb5e6756-4fb7-4cce-876d-9f1eb254c5cb" />
 
+---
 
 🎮 **Live Demo:** 
 https://ripalpatel18.github.io/JavaScript_Project/
