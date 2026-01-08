@@ -55,7 +55,8 @@ This app is perfect for anyone who:
 - 🌈 Dark mode toggle for better usability.  
 
 ## ScreenShot
-![Screenshot 2025-10-23 150533](https://github.com/user-attachments/assets/5bea82d9-a85b-4cd6-be29-0e192d77d9aa)
+<img width="1896" height="940" alt="fashionfolio" src="https://github.com/user-attachments/assets/eb5e6756-4fb7-4cce-876d-9f1eb254c5cb" />
+
 
 🎮 **Live Demo:** 
 https://ripalpatel18.github.io/JavaScript_Project/
